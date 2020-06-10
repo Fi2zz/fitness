@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RideJKTV3.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DBAD2C66114BA43915B09A247993623E362608BD</string>
+				<key>dateExpires</key>
+				<string>2021/4/20</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8Z7LGX7B48.com.ridejkt.app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8Z7LGX7B48</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8Z7LGX7B48.com.ridejkt.app</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>R Fitness.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>65b54c4a-bdf7-4fb6-8d3f-4dfe019b0c03</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8Z7LGX7B48</string>
+				<key>name</key>
+				<string>Jingbiao Wen</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
