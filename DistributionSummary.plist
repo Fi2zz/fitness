@@ -13,23 +13,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>DBAD2C66114BA43915B09A247993623E362608BD</string>
+				<string>30754AA3B649D4EE1410FA5E01B995CAAB6B524E</string>
 				<key>dateExpires</key>
-				<string>2021/4/20</string>
+				<string>2021/6/11</string>
 				<key>type</key>
 				<string>Apple Development</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>8Z7LGX7B48.com.ridejkt.app</string>
+				<string>8368MNUZS2.com.ridejkt.app</string>
 				<key>com.apple.developer.team-identifier</key>
-				<string>8Z7LGX7B48</string>
+				<string>8368MNUZS2</string>
 				<key>get-task-allow</key>
 				<true/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>8Z7LGX7B48.com.ridejkt.app</string>
+					<string>8368MNUZS2.com.ridejkt.app</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -37,16 +37,16 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>65b54c4a-bdf7-4fb6-8d3f-4dfe019b0c03</string>
+				<string>a0dc3549-c76c-4a30-96ef-e464df04fc7b</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: *</string>
+				<string>iOS Team Provisioning Profile: com.ridejkt.app</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>8Z7LGX7B48</string>
+				<string>8368MNUZS2</string>
 				<key>name</key>
-				<string>Jingbiao Wen</string>
+				<string>SEPEDA CEMERLANG JAYA, PT</string>
 			</dict>
 		</dict>
 	</array>
