@@ -13,33 +13,31 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>30754AA3B649D4EE1410FA5E01B995CAAB6B524E</string>
+				<string>530C1518350285EA7AF7C11007F4FB62F815AB07</string>
 				<key>dateExpires</key>
-				<string>2021/6/11</string>
+				<string>2021/6/19</string>
 				<key>type</key>
-				<string>Apple Development</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
 				<string>8368MNUZS2.com.ridejkt.app</string>
+				<key>aps-environment</key>
+				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>8368MNUZS2</string>
 				<key>get-task-allow</key>
-				<true/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>8368MNUZS2.com.ridejkt.app</string>
-				</array>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>R Fitness.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>a0dc3549-c76c-4a30-96ef-e464df04fc7b</string>
+				<string>458e8ef9-02bd-46c5-9f5d-8ead2c55a82e</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: com.ridejkt.app</string>
+				<string>R Fitness AdHoc</string>
 			</dict>
 			<key>team</key>
 			<dict>
