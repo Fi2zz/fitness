@@ -1,3 +1,3 @@
 window.onload =function(){
-    document.getElementById('time').innerText = "built at 2020-6-24 16:12:14";
+    document.getElementById('time').innerText = "Dist at 2020-6-24 16:14:30";
 }

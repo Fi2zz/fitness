@@ -9,7 +9,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "node ./touch.js"
+      "pre-push": "node ./touch.js"
     }
   }
 }
