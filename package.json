@@ -3,13 +3,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:Fi2zz/fitness.git",
-  "license": "MIT",
-  "dependencies": {
-    "husky": "^4.2.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "node ./touch.js"
-    }
-  }
+  "license": "MIT"
 }
