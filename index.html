@@ -9,7 +9,7 @@
       .install {
         background-color: rgb(68, 199, 103);
         color: rgb(255, 255, 255);
-        width: 300px;
+        width: 240px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -18,7 +18,7 @@
         text-decoration: none;
         border-radius: 22px;
         height: 44px;
-        margin: 0 auto 16px;
+        margin: 16px auto 2px;
       }
       html,
       body {
@@ -36,6 +36,10 @@
         justify-content: center;
         flex-direction: column;
       }
+      .time {
+        text-align: center;
+        font-size: 14px;
+      }
     </style>
     <div class="app">
       <a
@@ -43,13 +47,12 @@
         href="itms-services://?action=download-manifest&url=https://fi2zz.github.io/fitness/manifest.plist"
         >Install iOS App</a
       >
-      <a
-        class="install"
-        href="itms-services://?action=download-manifest&url=https://fi2zz.github.io/fitness/manifest.plist"
-        >Download Android App</a
-      >
-      <div style="text-align: center;">
-        <div id="time">Dist at 2020-07-02 14:00</div>
+      <div class="time">
+        ios: 2020-07-02 14:00
+      </div>
+      <a class="install" href="./app-release.apk">Download Android App</a>
+      <div class="time">
+        android: 2020-07-06 14:14
       </div>
     </div>
   </body>
